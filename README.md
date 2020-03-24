@@ -14,3 +14,5 @@ Follow the steps below to deploy the demo application to an Elastic Beanstalk PH
 7. Allocate 5GB of storage and provide a username and password for your database
 8. Review and launch the application
 # eb-rds-php
+
+https://docs.amazonaws.cn/en_us/elasticbeanstalk/latest/dg/php-ha-tutorial.html
